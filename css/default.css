@@ -1,0 +1,58 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/templates/scrolling-nav)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+section {
+    padding: 150px 0;
+}
+
+.header-bakgrunn {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/stellrweb-djb1whucfBY-unsplash-medium.jpg);
+    /*background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, .7)), url(../images/stellrweb-djb1whucfBY-unsplash-medium.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 700px;
+    padding: 200px 0 100px
+}
+
+.header-bakgrunn-overlay {
+    background-color: rgba(21, 146, 206, 0.5);
+    background-size: cover;
+}
+
+.ra-hovedfarge {
+    background-color: #1390CB;
+
+}
+
+
+.text-svart {
+    color: black;
+}
+
+.logo-small {
+    max-width:70%;
+    height:auto;
+}
+
+.logo-extra-small {
+    max-width:50%;
+    height:auto;
+
+}
+
+.header-overskrift {
+    background-color: rgba(21, 146, 206, 0.5);
+}
+
+.tjeneste-ikon {
+    max-width:75%;
+    height:auto;
+}
+
+
+div {
+    /*outline: 1px solid red;*/
+}
